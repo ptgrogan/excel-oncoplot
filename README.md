@@ -2,6 +2,8 @@
 
 Simple Excel-based oncoplot to visualize gene mutations in a patient population.
 
+[Direct Download](https://github.com/ptgrogan/excel-oncoplot/blob/master/oncoplot.xlsx?raw=true)
+
 ## Examples
 
 ![Example oncolplot](oncoplot.png)
