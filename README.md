@@ -22,7 +22,7 @@ The default configuration identifies eight types of mutations (by type ID):
  7. Multi Hit (dark blue)
  8. In Frame Deletion (brown)
 
-and specifies nine placeholder genes (rows) for 22 patients (columns).
+and specifies nine placeholder genes (rows) for 22 patients (columns). Note that the 8 mutation types listed above are based on those in [maftools](https://github.com/PoisonAlien/maftools) but are only associated with unique identifiers in the spreadsheet and can be modified to suit different application cases. Additional mutation types can be added by modifying the "Conditional Formatting" rules that color the gray cells based on a unique identifier.
 
 A bar plot above indicates mutation type per patient and a bar plot to the right indicates mutation type per gene. 
 
